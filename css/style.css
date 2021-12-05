@@ -17,7 +17,6 @@ img {
 b
 {
     font-size: 22px;
-    /* font-family: 'Grandstander', sans-serif; */
     font-weight: bold;
 }
 
@@ -33,7 +32,7 @@ b
     float: left;
     width: 77%;
     margin: 1%;
-    min-height: 500px;
+    min-height: 560px;
 }
 
 .content-header {
@@ -145,8 +144,8 @@ a
     margin-right: 0;
     margin-left: auto;
     margin-top: 2%;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     text-align: center;
 }
 
