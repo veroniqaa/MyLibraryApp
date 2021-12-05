@@ -1,0 +1,6 @@
+{
+    "name": "weronika/my-library-app",
+    "require": {
+        "laudis/neo4j-php-client": "^2.3"
+    }
+}
